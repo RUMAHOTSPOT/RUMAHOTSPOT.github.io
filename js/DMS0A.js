@@ -1,2 +1,0 @@
-var hasil = document.getElementById("DMS0A");
-hasil.innerHTML = "<div class='text-center text-white' style='font-size: 80%;background: #ffffff30;'>&copy; Copyright 2022 | <a style='color: white'>DMS0A</a> - All rights reserved </div>";
